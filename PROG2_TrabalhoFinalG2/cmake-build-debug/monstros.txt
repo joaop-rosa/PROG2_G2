@@ -1,0 +1,7 @@
+id:1,nome:Lobisomem,forca:12,defesa:10,vida:20,recompencaNivel:4
+id:2,nome:Dragao Anciao,forca:60,defesa:60,vida:200,recompencaNivel:30
+id:3,nome:Elemental,forca:8,defesa:8,vida:15,recompencaNivel:3
+id:4,nome:Beholder,forca:15,defesa:20,vida:25,recompencaNivel:7
+id:5,nome:Goblin,forca:5,defesa:5,vida:7,recompencaNivel:1
+id:6,nome:Gigante de Gelo,forca:15,defesa:20,vida:30,recompencaNivel:5
+id:7,nome:Fantasma,forca:3,defesa:10,vida:5,recompencaNivel:2
