@@ -1,2 +1,0 @@
-id:1,nome:Limpar a Taverna,seqInimigos:2/2/13,recompencaNivel:3
-id:2,nome:Invadir covil de dragoes,seqInimigos:5/6/7/8,recompencaNivel:50
