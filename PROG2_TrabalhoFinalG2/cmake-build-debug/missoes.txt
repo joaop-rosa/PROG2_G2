@@ -1,0 +1,4 @@
+id:1,nome:Limpar a Taverna,seqInimigos:2/2/13,recompencaNivel:6
+id:2,nome:Invadir covil de dragoes,seqInimigos:5/6/7/8,recompencaNivel:80
+id:3,nome:Invadir circulo dos elementos,seqInimigos:9/9/9,recompencaNivel:20
+id:4,nome:Sobreviver a noite dos mortos-vivos,seqInimigos:1/1/1/1/1/1/1/1/1/1,recompencaNivel:15
